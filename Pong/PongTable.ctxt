@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PongTable
+comment1.params=
+comment1.target=PongTable()
+comment2.params=
+comment2.target=void\ placeObjects()
+comment3.params=x
+comment3.target=void\ addEnemyScore(int)
+numComments=4
